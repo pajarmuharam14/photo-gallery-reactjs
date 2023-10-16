@@ -286,6 +286,13 @@
       "nikcName": "Chika",
       "kabesha": "./src/assets/images/kabesha/kabesha-chika.jpg",
       "page": "/chika"
+    },
+    {
+      "id": 42,
+      "name": "svg",
+      "nikcName": "svg",
+      "kabesha": "./src/assets/react.svg",
+      "page": "/chika"
     }
   ]
 }
