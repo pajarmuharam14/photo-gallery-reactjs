@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 const dataMembers = [
   {
     id: 1,
@@ -283,7 +284,7 @@ const dataMembers = [
     id: 41,
     name: "Yessica Tamara",
     nikcName: "Chika",
-    kabesha: "./src/assets/images/kabesha/kabesha-chika.jpg",
+    kabesha: require("./src/assets/images/kabesha/kabesha-chika.jpg"),
     page: "/chika",
   },
 ];
