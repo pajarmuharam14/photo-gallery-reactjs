@@ -284,7 +284,7 @@ const dataMembers = [
     id: 41,
     name: "Yessica Tamara",
     nikcName: "Chika",
-    kabesha: require("./src/assets/images/kabesha/kabesha-chika.jpg"),
+    kabesha: "./src/assets/images/kabesha/kabesha-chika.jpg",
     page: "/chika",
   },
 ];
