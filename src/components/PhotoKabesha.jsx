@@ -1,6 +1,6 @@
 /* eslint-disable react/jsx-key */
 import { Link } from "react-router-dom";
-import { dataMembers } from "../json/data/dataMembers.json";
+import dataMembers from "../datas/dataMember";
 
 const PhotoKabesha = () => {
   return (
