@@ -1,6 +1,8 @@
+import viteLogo from "/vite.svg"
+
 const svgFile = {
-  name: "react logo",
-  src: "./src/assets/react.svg",
+  name: "vite logo",
+  src: viteLogo,
 };
 
 export default svgFile;
