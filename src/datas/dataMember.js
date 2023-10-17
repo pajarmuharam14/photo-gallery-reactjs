@@ -1,10 +1,12 @@
 /* eslint-disable no-undef */
+
+import kabeshaAshel from "../assets/images/kabesha/kabesha-ashel.jpg";
 const dataMembers = [
   {
     id: 1,
     name: "Adzana Shaliha",
     nikcName: "Ashel",
-    kabesha: "./src/assets/images/kabesha/kabesha-ashel.jpg",
+    kabesha: kabeshaAshel,
     page: "/ashel",
   },
   {
