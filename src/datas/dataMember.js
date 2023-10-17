@@ -1,6 +1,7 @@
 /* eslint-disable no-undef */
 
 import kabeshaAshel from "../assets/images/kabesha/kabesha-ashel.jpg";
+import kabeshaAlya from "../assets/images/kabesha/kabesha-alya.jpg";
 const dataMembers = [
   {
     id: 1,
@@ -13,7 +14,7 @@ const dataMembers = [
     id: 2,
     name: "Alya Amanda",
     nikcName: "Alya",
-    kabesha: "./src/assets/images/kabesha/kabesha-alya.jpg",
+    kabesha: kabeshaAlya,
     page: "/alya",
   },
   {
