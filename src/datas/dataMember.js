@@ -25,7 +25,7 @@ const dataMembers = [
     id: 4,
     name: "Anindya Ramadhani",
     nikcName: "Anindya",
-    kabesha: "/images/kabesha/kabesha-ashel.jpg",
+    kabesha: "/images/kabesha/kabesha-anindya.jpg",
     page: "/anindya",
   },
   {
