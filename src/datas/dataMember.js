@@ -21,7 +21,7 @@ const dataMembers = [
     id: 3,
     name: "Amanda Sukma",
     nikcName: "Amanda",
-    kabesha: "./src/assets/images/kabesha/kabesha-amanda.jpg",
+    kabesha: "/kabesha-amanda.jpg",
     page: "/amanda",
   },
   {
