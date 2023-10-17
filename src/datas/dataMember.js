@@ -288,5 +288,4 @@ const dataMembers = [
     page: "/chika",
   },
 ];
-
 export default dataMembers;
