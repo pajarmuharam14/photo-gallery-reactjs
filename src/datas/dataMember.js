@@ -273,12 +273,5 @@ const dataMembers = [
     kabesha: "/images/kabesha/kabesha-gracia.jpg",
     page: "/gracia",
   },
-  {
-    id: 41,
-    name: "Yessica Tamara",
-    nikcName: "Chika",
-    kabesha: "/images/kabesha/kabesha-chika.jpg",
-    page: "/chika",
-  },
 ];
 export default dataMembers;

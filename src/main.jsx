@@ -11,7 +11,6 @@ import AziziPage from "./pages/Member/AziziPage";
 import CalliePage from "./pages/Member/CalliePage";
 import CathyPage from "./pages/Member/CathyPage";
 import ChelseaPage from "./pages/Member/ChelseaPage";
-import ChikaPage from "./pages/Member/ChikaPage";
 import ChristyPage from "./pages/Member/ChristyPage";
 import CynthiaPage from "./pages/Member/CynthiaPage";
 import DaisyPage from "./pages/Member/DaisyPage";
@@ -80,10 +79,6 @@ const router = createBrowserRouter([
   {
     path: "/chelsea",
     element: <ChelseaPage />,
-  },
-  {
-    path: "/chika",
-    element: <ChikaPage />,
   },
   {
     path: "/christy",
