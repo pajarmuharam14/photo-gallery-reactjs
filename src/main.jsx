@@ -7,7 +7,6 @@ import AdelPage from "./pages/Member/AdelPage";
 import AlyaPage from "./pages/Member/AlyaPage";
 import AnindyaPage from "./pages/Member/AnindyaPage";
 import AmandaPage from "./pages/Member/AmandaPage";
-import AshelPage from "./pages/Member/AshelPage";
 import AziziPage from "./pages/Member/AziziPage";
 import CalliePage from "./pages/Member/CalliePage";
 import CathyPage from "./pages/Member/CathyPage";
@@ -65,10 +64,6 @@ const router = createBrowserRouter([
   {
     path: "/anindya",
     element: <AnindyaPage />,
-  },
-  {
-    path: "/ashel",
-    element: <AshelPage />,
   },
   {
     path: "/zee",

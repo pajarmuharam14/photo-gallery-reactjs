@@ -1,13 +1,6 @@
 /* eslint-disable no-undef */
 const dataMembers = [
   {
-    id: 1,
-    name: "Adzana Shaliha",
-    nikcName: "Ashel",
-    kabesha: "/images/kabesha/kabesha-ashel.jpg",
-    page: "/ashel",
-  },
-  {
     id: 2,
     name: "Alya Amanda",
     nikcName: "Alya",
